@@ -1,0 +1,1 @@
+<p class="direitos">&copy;Todos os direitos reservados.</p>
